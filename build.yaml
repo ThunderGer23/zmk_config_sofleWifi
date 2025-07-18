@@ -14,8 +14,8 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: sofle_left nice_view
+    shield: sofle_left
 #    + west build -p -b nice_nano_v2 -- -DSHIELD="some_native_shield nice_view"
   - board: nice_nano_v2
-    shield: sofle_right nice_view
+    shield: sofle_right
 #    + west build -p -b nice_nano_v2 -- -DSHIELD="some_native_shield nice_view"
