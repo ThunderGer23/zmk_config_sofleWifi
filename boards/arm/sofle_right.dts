@@ -1,9 +1,4 @@
 // filepath: c:\Users\Gerardo\Desktop\Teclados\zmk_config_sofleWifi\boards\arm\sofle_right.dts
-/ {
-    chosen {
-        zephyr,display = &nice_view;
-    };
-};
 
 &spi1 {
     status = "okay";
